@@ -32,7 +32,7 @@ B.Tech Information Technology Student @ SSN College of Engineering, Chennai
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:ckpranav04012006@gmail.com">
+<a href="mailto:ckpranav.04@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
 </a>
 
